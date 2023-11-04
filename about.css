@@ -1,6 +1,6 @@
 body {
     background-image: url(static/ella-arie-w10CTt39x9k-unsplash.jpg);
-    background-position: top;
+    /* background-position: top; */
     margin-top: 150px;
     padding: 0;
 }
@@ -40,6 +40,7 @@ body {
     object-fit: cover;
     border-radius: 5%;
     box-shadow: 0 0 10px black;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 
